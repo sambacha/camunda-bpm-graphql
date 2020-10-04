@@ -1,0 +1,16 @@
+/home/ubuntu/camunda-jwt-provider/camunda-bpm-graphql/extension-webapp/src/test/java/org/camunda/bpm/extension/graphql/CreditApplication.java
+/home/ubuntu/camunda-jwt-provider/camunda-bpm-graphql/extension-webapp/src/test/java/org/camunda/bpm/extension/graphql/GetSwimlaneGroup.java
+/home/ubuntu/camunda-jwt-provider/camunda-bpm-graphql/extension-webapp/src/test/java/org/camunda/bpm/extension/graphql/InstanceVariables.java
+/home/ubuntu/camunda-jwt-provider/camunda-bpm-graphql/extension-webapp/src/test/java/org/camunda/bpm/extension/graphql/RetrieveCustomerData.java
+/home/ubuntu/camunda-jwt-provider/camunda-bpm-graphql/extension-webapp/src/test/java/org/camunda/bpm/extension/graphql/Personality.java
+/home/ubuntu/camunda-jwt-provider/camunda-bpm-graphql/extension-webapp/src/test/java/org/camunda/bpm/extension/graphql/PublishDecision.java
+/home/ubuntu/camunda-jwt-provider/camunda-bpm-graphql/extension-webapp/src/test/java/org/camunda/bpm/extension/graphql/CustomerDataService.java
+/home/ubuntu/camunda-jwt-provider/camunda-bpm-graphql/extension-webapp/src/test/java/org/camunda/bpm/extension/graphql/SolvencyRating.java
+/home/ubuntu/camunda-jwt-provider/camunda-bpm-graphql/extension-webapp/src/test/java/org/camunda/bpm/extension/graphql/CopyVariablesOnStart.java
+/home/ubuntu/camunda-jwt-provider/camunda-bpm-graphql/extension-webapp/src/test/java/org/camunda/bpm/extension/graphql/DefaultResponsible.java
+/home/ubuntu/camunda-jwt-provider/camunda-bpm-graphql/extension-webapp/src/test/java/org/camunda/bpm/extension/graphql/CreditDecision.java
+/home/ubuntu/camunda-jwt-provider/camunda-bpm-graphql/extension-webapp/src/test/java/org/camunda/bpm/extension/graphql/DMSService.java
+/home/ubuntu/camunda-jwt-provider/camunda-bpm-graphql/extension-webapp/src/test/java/org/camunda/bpm/extension/graphql/GraphQLTest.java
+/home/ubuntu/camunda-jwt-provider/camunda-bpm-graphql/extension-webapp/src/test/java/org/camunda/bpm/extension/graphql/TestConfig.java
+/home/ubuntu/camunda-jwt-provider/camunda-bpm-graphql/extension-webapp/src/test/java/org/camunda/bpm/extension/graphql/UserResponsible.java
+/home/ubuntu/camunda-jwt-provider/camunda-bpm-graphql/extension-webapp/src/test/java/org/camunda/bpm/extension/graphql/CustomerData.java

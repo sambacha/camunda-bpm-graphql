@@ -1,0 +1,16 @@
+org/camunda/bpm/extension/graphql/DMSService.class
+org/camunda/bpm/extension/graphql/DefaultResponsible.class
+org/camunda/bpm/extension/graphql/SolvencyRating.class
+org/camunda/bpm/extension/graphql/TestConfig.class
+org/camunda/bpm/extension/graphql/RetrieveCustomerData.class
+org/camunda/bpm/extension/graphql/UserResponsible.class
+org/camunda/bpm/extension/graphql/InstanceVariables.class
+org/camunda/bpm/extension/graphql/CopyVariablesOnStart.class
+org/camunda/bpm/extension/graphql/PublishDecision.class
+org/camunda/bpm/extension/graphql/GraphQLTest.class
+org/camunda/bpm/extension/graphql/Personality.class
+org/camunda/bpm/extension/graphql/CreditDecision.class
+org/camunda/bpm/extension/graphql/CustomerDataService.class
+org/camunda/bpm/extension/graphql/CreditApplication.class
+org/camunda/bpm/extension/graphql/CustomerData.class
+org/camunda/bpm/extension/graphql/GetSwimlaneGroup.class

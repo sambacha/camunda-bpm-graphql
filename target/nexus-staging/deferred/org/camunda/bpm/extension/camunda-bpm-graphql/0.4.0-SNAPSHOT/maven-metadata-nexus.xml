@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.camunda.bpm.extension</groupId>
+  <artifactId>camunda-bpm-graphql</artifactId>
+  <version>0.4.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20201004105735</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.4.0-SNAPSHOT</value>
+        <updated>20201004105735</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.4.0-SNAPSHOT</value>
+        <updated>20201004105735</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
